@@ -1,3 +1,6 @@
+Estou testando e entendendo esse código, porém, como ainda tem alguns conceitos que preciso entender, estou assistindo as aulas
+de banco de dados para terminar este projeto, a medida que for avançando, atualizarei o repositório
+
 
 # Demo sobre live coding da digital innovation one - spring webflux - criando seu gerenciador de herois
 
